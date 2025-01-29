@@ -1,4 +1,4 @@
-# aws_task_ocumentation
+# aws_task_documentation
 This pdf is my documentation for the 14 tasks which i performed in aws cloud provider 
 
 Every content task will guided step by step with screenshots.
